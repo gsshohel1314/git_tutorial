@@ -7,9 +7,14 @@
 </head>
 <body>
     <h5>My first PHP code</h5>
-
     <?php
         echo 'hello world!';
     ?>
+    <h5>Second change in my code</h5>
+    <?php
+        echo " My name is shohel rana";
+        echo 'I am a student of daffodil international university';
+    ?>
+
 </body>
 </html>
