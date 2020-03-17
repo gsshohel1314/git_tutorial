@@ -6,14 +6,26 @@
     <title>Document</title>
 </head>
 <body>
-    <h5>My first PHP code</h5>
+    <h1>My first PHP page</h1>
     <?php
-        echo 'hello world!';
+        echo "Hello World!";
     ?>
-    <h5>This is branch_1</h5>
+    
+    <h1>Variable</h1>
     <?php
-        echo " Branch holo master branch er shakha";
+        $txt = "W3Schools.com";
+        echo "I love $txt!";
     ?>
 
+    <h1>Datatype</h1>
+    <?php
+        $x = "Hello world!";
+        $y = 'Hello world!';
+
+        echo $x;
+        echo "<br>";
+        echo $y;
+    ?>
+    
 </body>
 </html>
