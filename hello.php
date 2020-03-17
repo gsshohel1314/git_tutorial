@@ -10,10 +10,9 @@
     <?php
         echo 'hello world!';
     ?>
-    <h5>Second change in my code</h5>
+    <h5>This is my second branch</h5>
     <?php
-        echo " My name is shohel rana";
-        echo 'I am a student of daffodil international university';
+        echo " This is another copy of master branch code.";
     ?>
 
 </body>
