@@ -9,6 +9,7 @@
     <h1>My first PHP page</h1>
     <?php
         echo "Hello World!";
+        echo 'Shohel rana';
     ?>
     
     <h1>Variable</h1>
@@ -19,13 +20,9 @@
 
     <h1>Datatype</h1>
     <?php
-        $x = "Hello world!";
-        $y = 'Hello world!';
-
-        echo $x;
-        echo "<br>";
-        echo $y;
+        $x = 5985;
+        var_dump($x);
     ?>
-    
+        
 </body>
 </html>
